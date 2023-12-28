@@ -1,1 +1,1 @@
-# CodigoPython1
+Este codigo tem por objetivo percorrer uma lista de arquivos e verificar se existe um vendedor que bateu a meta de vendas no valor de 55 mil reais, caso exista este vendedor , o codigo envia um sms exibindo o valor da venda e o vendedor.
